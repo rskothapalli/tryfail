@@ -1,3 +1,4 @@
 git config --global user.name "becomedevops"
 git config --global user.email "becomedevops99@gmail.com"
 git commit --amend --reset-author --no-edit
+changes made to config in develop branch
